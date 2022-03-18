@@ -1,0 +1,1 @@
+void ADCconfig(uint8_t channel);
