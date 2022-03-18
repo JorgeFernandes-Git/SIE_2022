@@ -1,0 +1,39 @@
+D:\Jorge Fernandes\UA\Informática Industrial\Aula prática nº3 - Rs232_ComSerie\AP_N_3_Rs232_ComSerie\ComSerie_Rs232\ComSerie_Rs232\bin\Debug\ComSerie_Rs232.exe.config
+D:\Jorge Fernandes\UA\Informática Industrial\Aula prática nº3 - Rs232_ComSerie\AP_N_3_Rs232_ComSerie\ComSerie_Rs232\ComSerie_Rs232\bin\Debug\ComSerie_Rs232.exe
+D:\Jorge Fernandes\UA\Informática Industrial\Aula prática nº3 - Rs232_ComSerie\AP_N_3_Rs232_ComSerie\ComSerie_Rs232\ComSerie_Rs232\bin\Debug\ComSerie_Rs232.pdb
+D:\Jorge Fernandes\UA\Informática Industrial\Aula prática nº3 - Rs232_ComSerie\AP_N_3_Rs232_ComSerie\ComSerie_Rs232\ComSerie_Rs232\bin\Debug\ComSerie_Rs232.xml
+D:\Jorge Fernandes\UA\Informática Industrial\Aula prática nº3 - Rs232_ComSerie\AP_N_3_Rs232_ComSerie\ComSerie_Rs232\ComSerie_Rs232\obj\Debug\ComSerie_Rs232.vbprojAssemblyReference.cache
+D:\Jorge Fernandes\UA\Informática Industrial\Aula prática nº3 - Rs232_ComSerie\AP_N_3_Rs232_ComSerie\ComSerie_Rs232\ComSerie_Rs232\obj\Debug\ComSerie_Rs232.Form1.resources
+D:\Jorge Fernandes\UA\Informática Industrial\Aula prática nº3 - Rs232_ComSerie\AP_N_3_Rs232_ComSerie\ComSerie_Rs232\ComSerie_Rs232\obj\Debug\ComSerie_Rs232.FormPortConfig.resources
+D:\Jorge Fernandes\UA\Informática Industrial\Aula prática nº3 - Rs232_ComSerie\AP_N_3_Rs232_ComSerie\ComSerie_Rs232\ComSerie_Rs232\obj\Debug\ComSerie_Rs232.Resources.resources
+D:\Jorge Fernandes\UA\Informática Industrial\Aula prática nº3 - Rs232_ComSerie\AP_N_3_Rs232_ComSerie\ComSerie_Rs232\ComSerie_Rs232\obj\Debug\ComSerie_Rs232.vbproj.GenerateResource.cache
+D:\Jorge Fernandes\UA\Informática Industrial\Aula prática nº3 - Rs232_ComSerie\AP_N_3_Rs232_ComSerie\ComSerie_Rs232\ComSerie_Rs232\obj\Debug\ComSerie_Rs232.vbproj.CoreCompileInputs.cache
+D:\Jorge Fernandes\UA\Informática Industrial\Aula prática nº3 - Rs232_ComSerie\AP_N_3_Rs232_ComSerie\ComSerie_Rs232\ComSerie_Rs232\obj\Debug\ComSerie_Rs232.exe
+D:\Jorge Fernandes\UA\Informática Industrial\Aula prática nº3 - Rs232_ComSerie\AP_N_3_Rs232_ComSerie\ComSerie_Rs232\ComSerie_Rs232\obj\Debug\ComSerie_Rs232.xml
+D:\Jorge Fernandes\UA\Informática Industrial\Aula prática nº3 - Rs232_ComSerie\AP_N_3_Rs232_ComSerie\ComSerie_Rs232\ComSerie_Rs232\obj\Debug\ComSerie_Rs232.pdb
+D:\Jorge Fernandes\UA\Informática Industrial\Aula prática nº3 - Rs232_ComSerie\Trabalho_N_3_Rs232_ComSerie_JorgeFernandes_104580\ComSerie_Rs232\ComSerie_Rs232\bin\Debug\ComSerie_Rs232.exe.config
+D:\Jorge Fernandes\UA\Informática Industrial\Aula prática nº3 - Rs232_ComSerie\Trabalho_N_3_Rs232_ComSerie_JorgeFernandes_104580\ComSerie_Rs232\ComSerie_Rs232\bin\Debug\ComSerie_Rs232.exe
+D:\Jorge Fernandes\UA\Informática Industrial\Aula prática nº3 - Rs232_ComSerie\Trabalho_N_3_Rs232_ComSerie_JorgeFernandes_104580\ComSerie_Rs232\ComSerie_Rs232\bin\Debug\ComSerie_Rs232.pdb
+D:\Jorge Fernandes\UA\Informática Industrial\Aula prática nº3 - Rs232_ComSerie\Trabalho_N_3_Rs232_ComSerie_JorgeFernandes_104580\ComSerie_Rs232\ComSerie_Rs232\bin\Debug\ComSerie_Rs232.xml
+D:\Jorge Fernandes\UA\Informática Industrial\Aula prática nº3 - Rs232_ComSerie\Trabalho_N_3_Rs232_ComSerie_JorgeFernandes_104580\ComSerie_Rs232\ComSerie_Rs232\obj\Debug\ComSerie_Rs232.vbprojAssemblyReference.cache
+D:\Jorge Fernandes\UA\Informática Industrial\Aula prática nº3 - Rs232_ComSerie\Trabalho_N_3_Rs232_ComSerie_JorgeFernandes_104580\ComSerie_Rs232\ComSerie_Rs232\obj\Debug\ComSerie_Rs232.Form1.resources
+D:\Jorge Fernandes\UA\Informática Industrial\Aula prática nº3 - Rs232_ComSerie\Trabalho_N_3_Rs232_ComSerie_JorgeFernandes_104580\ComSerie_Rs232\ComSerie_Rs232\obj\Debug\ComSerie_Rs232.FormPortConfig.resources
+D:\Jorge Fernandes\UA\Informática Industrial\Aula prática nº3 - Rs232_ComSerie\Trabalho_N_3_Rs232_ComSerie_JorgeFernandes_104580\ComSerie_Rs232\ComSerie_Rs232\obj\Debug\ComSerie_Rs232.Resources.resources
+D:\Jorge Fernandes\UA\Informática Industrial\Aula prática nº3 - Rs232_ComSerie\Trabalho_N_3_Rs232_ComSerie_JorgeFernandes_104580\ComSerie_Rs232\ComSerie_Rs232\obj\Debug\ComSerie_Rs232.vbproj.GenerateResource.cache
+D:\Jorge Fernandes\UA\Informática Industrial\Aula prática nº3 - Rs232_ComSerie\Trabalho_N_3_Rs232_ComSerie_JorgeFernandes_104580\ComSerie_Rs232\ComSerie_Rs232\obj\Debug\ComSerie_Rs232.vbproj.CoreCompileInputs.cache
+D:\Jorge Fernandes\UA\Informática Industrial\Aula prática nº3 - Rs232_ComSerie\Trabalho_N_3_Rs232_ComSerie_JorgeFernandes_104580\ComSerie_Rs232\ComSerie_Rs232\obj\Debug\ComSerie_Rs232.exe
+D:\Jorge Fernandes\UA\Informática Industrial\Aula prática nº3 - Rs232_ComSerie\Trabalho_N_3_Rs232_ComSerie_JorgeFernandes_104580\ComSerie_Rs232\ComSerie_Rs232\obj\Debug\ComSerie_Rs232.xml
+D:\Jorge Fernandes\UA\Informática Industrial\Aula prática nº3 - Rs232_ComSerie\Trabalho_N_3_Rs232_ComSerie_JorgeFernandes_104580\ComSerie_Rs232\ComSerie_Rs232\obj\Debug\ComSerie_Rs232.pdb
+C:\Users\jorge\Desktop\Trabalho_N_3_Rs232_ComSerie_JorgeFernandes_104580\ComSerie_Rs232\ComSerie_Rs232\bin\Debug\ComSerie_Rs232.exe.config
+C:\Users\jorge\Desktop\Trabalho_N_3_Rs232_ComSerie_JorgeFernandes_104580\ComSerie_Rs232\ComSerie_Rs232\bin\Debug\ComSerie_Rs232.exe
+C:\Users\jorge\Desktop\Trabalho_N_3_Rs232_ComSerie_JorgeFernandes_104580\ComSerie_Rs232\ComSerie_Rs232\bin\Debug\ComSerie_Rs232.pdb
+C:\Users\jorge\Desktop\Trabalho_N_3_Rs232_ComSerie_JorgeFernandes_104580\ComSerie_Rs232\ComSerie_Rs232\bin\Debug\ComSerie_Rs232.xml
+C:\Users\jorge\Desktop\Trabalho_N_3_Rs232_ComSerie_JorgeFernandes_104580\ComSerie_Rs232\ComSerie_Rs232\obj\Debug\ComSerie_Rs232.vbproj.AssemblyReference.cache
+C:\Users\jorge\Desktop\Trabalho_N_3_Rs232_ComSerie_JorgeFernandes_104580\ComSerie_Rs232\ComSerie_Rs232\obj\Debug\ComSerie_Rs232.Form1.resources
+C:\Users\jorge\Desktop\Trabalho_N_3_Rs232_ComSerie_JorgeFernandes_104580\ComSerie_Rs232\ComSerie_Rs232\obj\Debug\ComSerie_Rs232.FormPortConfig.resources
+C:\Users\jorge\Desktop\Trabalho_N_3_Rs232_ComSerie_JorgeFernandes_104580\ComSerie_Rs232\ComSerie_Rs232\obj\Debug\ComSerie_Rs232.Resources.resources
+C:\Users\jorge\Desktop\Trabalho_N_3_Rs232_ComSerie_JorgeFernandes_104580\ComSerie_Rs232\ComSerie_Rs232\obj\Debug\ComSerie_Rs232.vbproj.GenerateResource.cache
+C:\Users\jorge\Desktop\Trabalho_N_3_Rs232_ComSerie_JorgeFernandes_104580\ComSerie_Rs232\ComSerie_Rs232\obj\Debug\ComSerie_Rs232.vbproj.CoreCompileInputs.cache
+C:\Users\jorge\Desktop\Trabalho_N_3_Rs232_ComSerie_JorgeFernandes_104580\ComSerie_Rs232\ComSerie_Rs232\obj\Debug\ComSerie_Rs232.exe
+C:\Users\jorge\Desktop\Trabalho_N_3_Rs232_ComSerie_JorgeFernandes_104580\ComSerie_Rs232\ComSerie_Rs232\obj\Debug\ComSerie_Rs232.xml
+C:\Users\jorge\Desktop\Trabalho_N_3_Rs232_ComSerie_JorgeFernandes_104580\ComSerie_Rs232\ComSerie_Rs232\obj\Debug\ComSerie_Rs232.pdb
