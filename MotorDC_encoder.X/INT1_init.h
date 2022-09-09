@@ -1,0 +1,1 @@
+void Init_External_Int1();

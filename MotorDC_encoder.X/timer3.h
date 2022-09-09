@@ -1,0 +1,1 @@
+void Timer3Config(void);
