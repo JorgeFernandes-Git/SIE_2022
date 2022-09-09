@@ -1,0 +1,1 @@
+void Timer2Config(void);
